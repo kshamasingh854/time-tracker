@@ -16,5 +16,5 @@ Requirements:
 * Maven 3.8+
 
 ```bash
-mvn clean install
-```
+Good nightmvn clean install
+ ```
