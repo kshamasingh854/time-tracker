@@ -16,5 +16,5 @@ Requirements:
 * Maven 3.8+
 
 ```bash
-mvn clean install
+mvn clean install hello kshama
 ```
